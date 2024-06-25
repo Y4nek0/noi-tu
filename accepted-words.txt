@@ -1,38 +1,3 @@
-sen đá
-sen hồng
-bang hội
-bang chủ
-cốc nước
-cốc chén
-cốc nhựa
-liềm sắt
-hợm hĩnh
-hóm hỉnh
-mắt người
-mắt lé
-mắt to
-mắt nai
-thật giả
-sòng bài
-tấu hài
-là ủi
-ngầu lòi
-cút lộn
-Nối từ
-bàn là
-Lĩnh đủ
-là ủi
-lĩnh lương
-vang lừng
-vèo vẹo
-báo thủ
-lòng lợn
-lòng người
-lòng mề
-báo đốm
-gọi đò
-ra ngoài
-tiệc cưới
 ác bá
 ác báo
 ác cảm
@@ -42,13 +7,13 @@ tiệc cưới
 ác khẩu
 ác liệt
 ác ma
-ác mồm
 ác miệng
+ác mồm
 ác mộng
 ác nhân
 ác niệm
 ác ôn
-ác phụ  
+ác phụ
 ác quy
 ác quỷ
 ác thú
@@ -57,10 +22,10 @@ tiệc cưới
 ái ân
 Ai Cập
 ái mộ
-ái nữ
 ái ngại
 ái Nghĩa
 ai ngờ
+ái nữ
 ai oán
 ái quốc
 ái thê
@@ -94,7 +59,6 @@ an lành
 an nhàn
 an ninh
 an phận
-yên ổn
 An Sinh
 an táng
 an tâm
@@ -490,7 +454,6 @@ ao-xơ
 áp út
 áp việc
 áp xe
-áp phích
 át chế
 át chủ bài
 át lát
@@ -2738,6 +2701,7 @@ bảng biểu
 báng bổ
 bàng cận
 bảng cân đối
+bang chủ
 bảng chữ cái
 Bàng Cử
 bảng cửu chương
@@ -2755,6 +2719,7 @@ bàng hệ
 bảng hiệu
 bàng hoàng
 bảng hổ
+bang hội
 bảng kê
 Bàng La
 bảng lảng
@@ -3052,6 +3017,7 @@ bào đệ
 báo đền
 báo điện tử
 bạo đồ
+báo đốm
 bao đồng
 báo động
 bạo động
@@ -3232,6 +3198,7 @@ bảo thọ
 bao thơ
 bảo thủ
 báo thù
+báo thủ
 Bảo Thuận
 bao thuốc
 báo thức
@@ -16927,6 +16894,7 @@ cốc
 cộc
 cốc biển
 cộc cằn
+cốc chén
 cốc cốc
 cộc cộc
 cộc cỡn
@@ -16944,6 +16912,8 @@ cốc mò cò ăn; cốc mò cò xơi
 cốc mò cò xơi
 Cốc Mỹ
 cộc ngủn
+cốc nhựa
+cốc nước
 Cốc Pài
 Cốc Pàng
 Cốc Rế
@@ -17941,11 +17911,11 @@ cù là
 cù lao
 cù lần
 cù léc
+cu leo
 cù lèo
 cù lệch
 cu li
-cu li 
-cu leo
+cu lit
 cu lít
 cu lông
 cụ lớn
@@ -17983,17 +17953,19 @@ củ nưa
 cụ ông
 cú pháp
 cú phôn
+cu pông
 củ quẳn
 củ ráy
 cũ rích
+cu roa
+cu ron
 cù rù
 củ rủ
 cú rũ
-củ rủ 
-cù rù
 củ sát
 cu sen
 củ soát
+cu soong
 cú sút
 Cù Tê
 cụ thể
@@ -18013,14 +17985,6 @@ Cù Vân
 củ vấn
 cú vọ
 cu xanh
-cu li
-cu lit
-cu lít
-cu lông
-cu pông
-cu roa
-cu ron
-cu soong
 cua
 Cùa
 của
@@ -18531,6 +18495,7 @@ cụt chân
 cút đi
 cụt hứng
 cút kít
+cút lộn
 cụt lổng
 cụt lủn
 cụt ngòi
@@ -30916,6 +30881,7 @@ gói bưu
 gọi chút
 gọi cửa
 gọi dạ bảo vâng
+gọi đò
 gói gắm
 gói gém
 gỏi ghém
@@ -39800,6 +39766,7 @@ La tinh
 lá toạ
 lá tọa
 la trời
+là ủi
 la um
 lá vai
 la vang
@@ -41664,6 +41631,7 @@ liếm mép
 liềm móng
 liếm môi
 liêm phóng
+liềm sắt
 liêm sỉ
 liêm sĩ
 liềm vạt
@@ -41854,6 +41822,7 @@ linh đình
 linh động
 linh đời
 linh đơn
+Lĩnh đủ
 lính gác
 linh giác
 lính giản
@@ -41874,6 +41843,7 @@ lính lê-dương
 linh lỉnh
 linh lợi
 lĩnh lược
+lĩnh lương
 lĩnh mệnh
 linh miêu
 linh mục
@@ -42362,10 +42332,12 @@ lỏng lẻo
 long li quy phụng
 long lóc
 long lỏng
+lòng lợn
 long mạch
 lòng mang
 lòng máng
 lọng máu cáo, áo hoa hiên
+lòng mề
 lòng mến
 long mi
 lòng mình
@@ -42379,6 +42351,7 @@ long ngai
 lòng ngay dạ thẳng
 lòng ngòng
 lóng ngóng
+lòng người
 lòng người dạ thú
 long nhan
 long nhãn
@@ -45174,6 +45147,7 @@ mặt làm thinh tình đã ưng
 mặt lạnh như tiền
 mặt lầm lầm như chó ăn vụng bột
 mặt lầm lầm tát nước đầm không cạn
+mắt lé
 mắt loà chân chậm
 mắt long sòng sọc
 mắt lỗ đáo
@@ -45201,6 +45175,7 @@ mặt muội mày gio
 mặt nạ
 mặt nạc
 mặt nạc đóm dày
+mắt nai
 mặt nặng
 mặt nặng đá đeo
 mặt nặng mày nhẹ
@@ -45217,6 +45192,7 @@ mặt ngoài
 mặt ngọc
 mặt ngọc da ngà
 mắt ngứa
+mắt người
 mặt người dạ thú
 mắt nhắm mắt mở
 mặt nhăn như bị
@@ -45269,6 +45245,7 @@ mặt thớt
 mắt thứ hai tai thứ bảy
 mắt thứ hai, tai thứ bảy
 mặt tiền
+mắt to
 mắt to như ốc nhồi
 mặt to tai lớn
 mặt trái
@@ -49178,6 +49155,7 @@ ngầu đỏ
 ngẫu hôn
 ngẫu hợp
 ngẫu hứng
+ngầu lòi
 ngẫu lực
 ngâu ngấu
 ngầu ngầu
@@ -54293,6 +54271,7 @@ nổi trội
 nội trợ
 nội trú
 nội tuyết
+Nối từ
 nội tướng
 nội ứng
 nối vào
@@ -62911,8 +62890,10 @@ sẻn
 sen biển
 sen cạn
 Sen Chiểu
+sen đá
 sen đầm
 sen đầm quốc tế
+sen hồng
 sen ngó đào tơ
 sẻn so
 Sen Thuỷ
@@ -63418,6 +63399,7 @@ sóng âm
 song âm tiết
 sòng bạc
 sóng bạc đầu
+sòng bài
 song bản vị
 song biên
 song biến
@@ -66477,6 +66459,7 @@ tầu bay
 tầu bè
 tẩu cẩu
 tầu chiến
+tấu hài
 tẩu mã
 tầu ngầm
 tấu nhạc
@@ -68263,6 +68246,7 @@ thất đảm kinh hồn
 thất điên bát đảo
 thất đức
 thất gia
+thật giả
 thật giá
 thất hiếu
 thất hòa
@@ -71793,6 +71777,7 @@ tiếc
 tiệc
 tiếc công
 tiếc của
+tiệc cưới
 tiệc đứng
 tiếc hùi hụi
 tiệc ích
@@ -77275,4 +77260,6 @@ tung tóe
 tung tung
 tùng tùng
 Tùng Tuyết đạo nhân
-Tùng
+vang lừng
+vèo vẹo
+yên ổn
