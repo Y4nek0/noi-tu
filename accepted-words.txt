@@ -3,6 +3,7 @@ cháy khét
 cháy rừng
 cháy nhà
 loa kéo
+loa đài
 loa phường
 loa loá
 loa ngoài
@@ -89995,7 +89996,3 @@ nhập thuần
 thuần tuý
 thu nhiệt
 thu nhỏ
-thù oán
-thủ phạm
-thú phạm
-thủ p
