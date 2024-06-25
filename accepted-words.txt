@@ -1,6 +1,7 @@
 thức đêm
 cháy khét
 cháy rừng
+loa phường
 cháy nhà
 ác bá
 ác báo
@@ -89994,5 +89995,4 @@ thu nhỏ
 thù oán
 thủ phạm
 thú phạm
-thủ pháo
-thủ ph
+thủ p
