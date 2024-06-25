@@ -108,37 +108,17 @@ anh họ
 anh hoa
 ánh hồng
 anh hùng
-anh hùng bạt tuỵ
-anh hùng ca
-anh hùng cá nhân
-anh hùng cái thế
-anh hùng chủ nghĩa
-anh hùng cứu mỹ nhân
-anh hùng hào kiệt
-anh hùng không đất dụng võ
-anh hùng lao động
-anh hùng lực lượng vũ trang
-anh hùng mạt lộ
-anh hùng mạt vận
-anh hùng một khoảnh
-anh hùng nhất khoảnh
-anh hùng rơm
-anh hùng tạo thời thế
-anh hùng tương ngộ
-anh hùng xuất thiếu niên
 ảnh hưởng
 ảnh kế
 anh kiệt
 anh kim
 ánh kim
 anh linh
-anh lùn xem hội
 ảnh lửa
 ánh lửa
 Anh lý
 ánh mắt
 anh minh
-anh mù dạy anh lòa
 Anh Mỹ
 ánh nắng
 ảnh nền
@@ -154,9 +134,6 @@ Anh Quốc
 anh rể
 anh ruột
 ánh sáng
-ánh sáng lạnh
-ánh sáng phân cực
-ánh sáng trắng
 anh sẽ
 Anh Sơn
 anh ta
@@ -164,7 +141,6 @@ anh tài
 anh thảo
 ảnh thật
 ánh thép
-anh thích em
 ảnh thoại
 anh thư
 ánh tỏi
@@ -173,58 +149,22 @@ anh trai
 anh tú
 anh tuấn
 anh túc
-anh túc xác
-anh tử túc
 ảnh tượng
 anh văn
 ảnh véctơ
 anh vợ
 anh vũ
 ánh xạ
-anh yến
-anh yêu em
-anh-te
-anh-te-phôn
-anh-te-ruýp-tơ
-anmanac
-Annam
-anod
-anode
-anofen
-anopheles
-anot
-anpha
-anten
-anthracit
-antimon
-antimony
-antipirin
-antipyrin
-antraxit
-ANZUS
-ao
-ào
-ảo
-áo
 ảo ảnh
 ao ảo
 ào ào
 ào ào chó
-ào ào như ong vỡ tổ
-ào ào như thác lũ
 ào ạt
 áo ấm
 áo ấm cơm no
 áo bả
-áo bà ba
-áo ba lỗ
-áo ba-đờ-xuy
-áo bành tô
-áo bành-tô
 áo bao
 áo bào
-áo bào gặp ngày hội
-áo bào tử
 áo bay
 ao băng
 áo bìa
@@ -232,20 +172,11 @@ ao băng
 áo blu-dơ
 áo bò
 áo bó
-áo bốn túi
 áo bông
-áo bờ-lu
-áo bơ-lu-dông
-áo bờ-lu-dông
-áo buông chùng, quần đóng gót
-áo buông chùng, quần lá tọa
 ao cá
-áo cà sa
 ảo cảnh
 áo cánh
-áo cánh tiên
 áo cặp
-áo cẩm bào
 áo cầu
 áo chàm
 áo chen
@@ -255,46 +186,25 @@ ao cá
 áo choàng
 áo chung
 ao chuôm
-ao có bờ, sông có bến
 áo cổ lọ
 áo cộc
-áo cộc quần manh
 áo cối
 áo cơm
 áo cụt
-áo cứ chàng, làng cứ xã
 áo cưới
 áo dài
-áo dài chớ ngại quần thưa
-áo dài đai rộng
-áo dài khăn đóng
-áo dài khăn lượt
-áo dài khăn xếp
-áo dày cơm nặng
 ảo dâm
 áo dấu
-áo đại cán
 ảo đăng
 áo đầm
-áo đỏ quần điều
-áo đổi vai
 áo đơn
-áo đơn đợi hè
-áo đơn lồng áo kép
 áo gai
-áo gai giày cỏ
 áo gấm
-áo gấm đai vàng
-áo gấm đi đêm
-áo gấm mặc ngày
-áo gấm về làng
-áo gấm về quê
 áo gi-lê
 áo gia-két
 ao giác
 ảo giác
 áo giáp
-áo giáp rơm
 áo gió
 áo gối
 áo hạt
@@ -77108,8 +77018,6 @@ tục tử
 túc vệ
 túc xác
 tục xưng
-tuế
-tuệ
 tuệ căn
 tuế cống
 tuệ giác
@@ -77123,22 +77031,15 @@ Tuệ Tĩnh
 tuệ tính
 tuế toá
 tuế toái
-tuếch
 tuếch toác
 tuệch toạc
 tuềnh toàng
-tughrik
-tui
-tủi
-túi
-tụi
 túi áo
 túi bóng
 túi bụi
 tụi chúng
 túi con
 túi cơm
-túi cơm giá áo
 tủi cực
 túi dầu
 túi dết
@@ -77148,8 +77049,6 @@ tụi đàng
 tụi em
 tủi hổ
 tủi hờn
-túi khí
-túi không đáy
 tụi mày
 túi mật
 tụi mình
@@ -77158,34 +77057,21 @@ túi ngủ
 tủi nhục
 tụi nó
 tủi phận
-tủi phận hờn duyên
 túi quần
 tụi tao
 tủi tay
 túi tham
-túi tham không đáy
 tủi thân
 túi thơ
 túi tiền
 tụi tôi
 tụi tui
 túi xách
-tulip
-tulơkhơ
-tum
-tùm
-tủm
-tũm
-túm
-tụm
-túm bảy tụm ba
 tum húm
 tùm hum
 tum húp
 tùm hụp
 tùm lum
-tùm lum tà la
-túm năm tụm ba
 tủm tỉm
 tùm tũm
 túm tụm
@@ -77194,10 +77080,6 @@ tun hút
 tủn mủn
 tun ngủn
 tủn ngủn
-tung
-tùng
-túng
-tụng
 Tùng ảnh
 Tùng Bá
 tùng bách
@@ -77205,7 +77087,6 @@ tung bay
 túng bấn
 tụng ca
 tùng chinh
-Tung Chung Phố
 tùng cúc
 tùng đàm
 tùng đảng
@@ -77222,7 +77103,6 @@ tung hùanh
 tùng huynh
 tung hứng
 tùng hương
-túng kế làm liều
 Tùng Khê
 túng kiết
 tụng kinh
@@ -77247,7 +77127,6 @@ tung tăng
 tung tẩy
 tung thâm
 túng thế
-túng thì phải tính
 túng thiếu
 tùng thoại
 tùng thu
@@ -77259,7 +77138,6 @@ tung toé
 tung tóe
 tung tung
 tùng tùng
-Tùng Tuyết đạo nhân
 vang lừng
 vèo vẹo
 yên ổn
