@@ -4,9 +4,8 @@ cốc nước
 cốc chén
 cốc nhựa
 liềm sắt
-đầu cẹc
-đầu khấc
-khọm khĩnh
+hợm hĩnh
+hóm hỉnh
 mắt người
 mắt lé
 mắt to
@@ -22,6 +21,7 @@ bàn là
 Lĩnh đủ
 là ủi
 lĩnh lương
+vang lừng
 vèo vẹo
 báo thủ
 lòng lợn
@@ -30,649 +30,75 @@ lòng mề
 báo đốm
 gọi đò
 ra ngoài
-2G
-A
-à
-ả
-á
-ạ
-à à
-á à
-a bá hợi
-a bàng
-á bí tích
-A Bung
-á châu
-a cít
-A Di
-a di đà
-A Di Đà kinh
-A Di Đà Phật
-A Dong
-A Dơi
-a du
-a dua
-A đam
-a đảng
-ả đào
-a đẩu
-ả đầu
-á đông
-A Đới
-á đù
-a ga
-a giao
-a ha
-ả Hàn Than
-a hành
-a hành ác nghiệp
-a hành ác nghiệt
-a hành ác tỏi
-ả hằng
-á hậu
-a hoàn
-ả hoàn
-á hoang mạc
 tiệc cưới
-a hoành
-a hộ
-á khanh
-á khẩu
-á khoa
-á khôi
-á kịch
-á kim
-a la hán
-á lao
-a léc
-a lê
-a lô
-A Lù
-A Lưới
-a ma tơ
-a măng
-a men
-a mi
-a min
-a míp
-A Mrơn
-A Mú Sung
-à này
-A Ngo
-a ngu
-a nguỳ
-a nguỵ
-á nguyên
-á ngữ
-á nhiệt đới
-a nốt
-à ơi
-ạ ơi
-a pa tít
-a pác thai
-Á Phi
-a phiến
-ả phiện
-á phiện
-ả phù dung
-a posteriori
-a priori
-á quân
-à quên
-Ả Rập
-A Roàng
-a Rooi
-a sen
-á sừng
-ả Tạ
-a tăng kì
-á thanh
-á thánh
-á thất
-A Tì địa ngục
-A Tiêng
-A Ting
-a tòng
-A Túc
-a tùng
-á tử
-à uôm
-A Vao
-A Vương
-A Xan
-ả xẩm
-A Xing
-a xít
-A Yun
-a-ba-giua
-a-ba-toa
-A-di-đà phật
-a-dong
-a-dốt
-a-đa
-A-đam
-A-đi-xơn
-a-đrê-na-lin
-a-ga
-a-giăng
-a-giăng-đa
-a-gon
-A-la
-A-la-hán
-a-la-mốt
-a-la-văng
-a-léc
-a-len
-a-lê
-a-lê hấp
-a-lô
-a-lu-min
-a-ma-tơ
-a-mam
-a-măng
-a-me-ri-xi
-a-men
-a-mi
-a-mi-ăng
-a-mi-đan
-a-mi-nô a-xít
-a-min
-a-míp
-a-mô-ni-ác
-a-mô-ni-ắc
-a-nan-gin
-a-ni-lin
-a-ni-ôn
-a-ni-ông
-a-nô-phen
-a-nốt
-a-pa-tít
-a-pác-thai
-a-pê-ri-típ
-a-rập học
-a-sen
-a-spi-rin
-a-ta-tin
-a-ti-sô
-a-tlát
-a-tÒrô-pin
-a-trô-pin
-a-tu-la
-a-tua-đờ-rôn
-a-văng
-a-văng-ta
-a-văng-xê
-a-vi
-a-vô-ca
-a-xen
-a-xê-ti-len
-a-xê-ti-len lỏng
-a-xê-ton
-a-xê-tôn
-a-xit
-a-xít
-a-xít a-min
-a-xít a-sco-bic
-a-xít a-xê-tic
-a-xít a-xê-tích
-a-xít béo
-a-xít các-bo-ních
-a-xít các-bon-nic
-a-xít clo-hi-đríc
-a-xít clo-hi-đrích
-a-xít đường
-a-xít lác-tíc
-a-xít lưu huỳnh
-a-xít ni-trích
-a-xít sun-fu-ric
-a-xít sun-fua-rích
-a-xphan
-a-xpi-rin
-a-zốt
-a,a
-abc
-Abel
-abscess
-ác
-ác (một) cái là
-ác (một) nỗi là
 ác bá
 ác báo
-ác cái là
 ác cảm
 ác chiến
-ác chứng
-ác danh
-ác dâm
-ác đảng
-ác đạo
-ác điểu
-ác đồ
 ác độc
 ác đức
-ác giả ác báo
-ác hại
-ác hiểm
-ác họa
-ác hữu ác báo
-ác kế
 ác khẩu
-ác là
 ác liệt
 ác ma
-ác ma phái
-ác miệng
-ác mỏ
-ác mó
-ác mọc lông trong bụng
-ác mô ni ca
 ác mồm
+ác miệng
 ác mộng
-ác một cái là
-ác nghịch
-ác nghiệp
-ác nghiệp cơ cầu
-ác nghiệt
-ác ngôn
 ác nhân
 ác niệm
-ác ó
 ác ôn
-ác phạm
-ác phụ
-ác quả
-ác quả ác báo
-ác quán mãn doanh
-ác quỉ
+ác phụ  
+ác quy
 ác quỷ
-ác tà
-ác tăng
-ác tâm
-ác tập
-ác tật
-ác thần
 ác thú
-ác tính
-ác tường
-ác vàng
 ác ý
-ác-bít
-ác-bít hối đoái
-ác-coóc
-ác-coóc-đê-ông
-ác-mô-ni-ca
-ác-quy
-ác-ten
-ác-ten nông nghiệp
-ác-ti-sô
-acbit hối đoái
-accordeon
-aceton
-acetone
-acetylen
-acetylene
-ách
-ạch
-ách chuồn
-ách cơ
-ạch đụi
-ách phích
-ách rô
 ách tắc
-ách vận
-ách yếu
-acid
-acid acetic
-acid amin
-acid béo
-acid carbonic
-acid chlorhydric
-acid nitric
-acid sulfuric
-acmonica
-acquy
-acre
-acten nông nghiệp
-ad hoc
-ADN
-adrenalin
-adsl
-afghani
-Ag
-agar
-ai
-ải
-ái
-ai ai
-ải ải
 ái ân
-ai bảo
-ai bi
-ai biết đâu
-ai biết phận nấy
-ai ca
-ai cảm
-ái căn
-ai cắt rốn cho
 Ai Cập
-ai cập học
-ái chà
-ái chà chà
-ai chẳng
-ai chỉ
-ai cũng
-ai dà
-ái dà
-ái dào
-ai dè
-ải Du
-ái dục
-ái đái
-ải đất
-ai đấy
-ai điếu
-ai đó?
-ai đời
-ái đức
-ái hà
-ai hầu chi ai
-ái hoa
-ai hoài
-ái hỗ
-ái hộ
-ái hối
-ái hữu
-ái hữu hội
-ai khác
-ái khanh
-ai khảo mà xưng
-ái khí
-ai khiến
-ái kỉ
-ái kỷ
-ai lạc
-ai lại
-ái lang
-Ai Lao
-ái lực
-ái lực điện tử
-ái lực hoá học
-ai mà
 ái mộ
-ải mục
-ai mượn
-ái nam
-ái nam ái nữ
-ai nấy
+ái nữ
 ái ngại
 ái Nghĩa
 ai ngờ
-ái nhân
-ái nhi
-Ái Nhĩ Lan
-ái nhiễm
-ái nữ
-ai nữa
-ái nương
 ai oán
-ái ố mĩ miều gì
-ải phà
-ái phi
-ai phong
-ai quan
-ải quan
-ái quần
 ái quốc
-ải sát
-ái sắc
-ái tài
-ái tha
-ải thâm
-ái thần
 ái thê
 ái thiếp
-ái thuỷ
-ái tiền
-ai tín
 ái tình
-ái tình học
-ai từ
-ai tử
-ải tử
-ai tư vãn
-ái ưu
-ải Vân
-AIDS
-AK
-Al
-album
-albumin
-alcaloid
-aldehyd
-ALGOL
-algorithm
-alkaloid
-almanac
-almanach
-alô
-alpha
-alphabet
-alumin
-am
-ám
 ám ảnh
 ám chỉ
-ám chúa
-ám chướng
 ảm đạm
-ám đạm
-ám điểm
-Am Đồng
 ám hại
-Am Hán chùa Lương
 am hiểu
 ám hiệu
-ám kế
 ám khí
 ám khói
 ám lệnh
-ám lịnh
-ám luật
-am luyện
-ám lực
-am mây
 ám muội
-ám nghĩa
-ám ngữ
-am pe
-am pli
-am pun
 ám quẻ
 ám sát
-ám số
-ám tả
-ám tàng
-am thanh cảnh vắng
 ám thị
-ám thính
-am thục
-ám tiêu
-ám trợ
 am tự
-ám tự
 am tường
-Am Váp
-am-mô-ni-ắc
-am-pe
-am-pe giờ
-am-pe kế
-am-pli
-am-pun
-amatơ
-amen
-Ameriđi
-amian
-amiant
-amib
-amiđan
-amino acid
-aminoacid
-amip
-ammoniac
-ampe
-ampe kế
-ampere
-ampere kế
-ampli
-amygdal
-amygdala
-an
-án
-án Anh
-An ấp
-An Bá
 an bài
-án bàn tổ
-an bang
-an bần
-an bần lạc đạo
-an biên
 an bình
 án binh
-An Bình A
-An Bình B
-án binh bất động
-An Bình Tây
-an bom
-An Bồi
-An Cầu
-An Chấn
-An Châu
 an cư
-an cư lạc nghiệp
-An Cựu
-an dạ
-an dân
-an dật
-an dinh
-An Dục
-An Dũng
-An Dương
 an dưỡng
-an dưỡng đường
-An Dương Vương
-An Đạo
-An Điền
-An Định
-An Đô
-án đồ
-An Đôn Phác
-An Đồng
-An Đức
-An Đức Tây
-án gian
 An Giang
 an giấc
-an giấc ngàn thu
-an giấc nghìn thu
-an gin
-An Hà
-An Hải
-An Hải Bắc
-An Hải Đông
-An Hải Tây
-an hảo
-An Hiệp
-An Hoà
-An Hoá
-An Hoà Tây
-An Hội
-An Hồng
-An Hùng
-án huyệt
-An Hưng
-an hưởng
-An Hữu
 an khang
-an khang thịnh vượng
-An Khánh
-An Khê
-An Khương
-An Kỳ Sinh
 an lạc
-An Lạc Tây
-An Lạc Thôn
 an lành
-An Lão
-An Lâm
-An Lập
-An Lễ
-án lệ
-án lệnh
-án lí
-an liêu
-An Lĩnh
-án lịnh
-An Long
-an lòng
-An Lộc
-An Lợi Đông
-An Lục
-An Lư
-An Lương
-An Lưu
 án mạch
-án mạng
-án Mạnh ngang mày
-An Minh
-An Minh Bắc
-An Mỹ
-An Nam
-An Ngãi
-An Ngãi Tây
-An Ngãi Trung
-an nghỉ
-an nghĩ
-An Nghĩa
-An Nghiệp
-án ngồi
-án ngũ
-án ngữ
-án ngự
 an nhàn
-an nhật
-an nhiên
-an nhiên tự tại
-An Nhơn
-An Nhơn Tây
-An Nhựt Tân
 an ninh
-An Ninh Đông
-An Ninh Tây
-An Nội
-An Nông
-an ổn
-an pha
 an phận
-an phận thủ kỉ
-an phận thủ thường
-án phê
-án phí
-An Phong
-An Phú
-An Phụ
-An Phú Đông
-An Phú Tân
-An Phú Tây
-An Phú Thuận
-An Phú Trung
-An Phúc
-An Phước
-An Quang
+yên ổn
+
 An Quảng Hữu
 An Quy
 An Quý
-án quyết
+án quyế
 án sát
 An Sinh
 An Sơn
