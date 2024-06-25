@@ -18656,29 +18656,19 @@ cụ kị
 cũ kỹ
 cụ kỵ
 cù là
-cú lại chê vọ rằng hôi
 cù lao
-cù lao Chàm
-cù lao chín chữ
-cù lao cúc dục
-cù lao Dung
-cù lao dưỡng dục
-cù lao mái nhà
-cù lao Ré
-cù lao Thu
-cù lao Xanh
 cù lần
 cù léc
 cù lèo
 cù lệch
 cu li
-cu li cu leo
+cu li 
+cu leo
 cu lít
 cu lông
 cụ lớn
 cu luồng
 cu lửa
-củ mã tiền
 củ mài
 củ mật
 cũ mèm
@@ -18686,8 +18676,6 @@ cú mèo
 cù mì
 củ mì
 củ mỉ
-củ mỉ cù mì
-cù mì cục mịch
 cú móc
 cù mộc
 Cù Mông
@@ -18702,19 +18690,16 @@ cù nèo
 cụ ngoại
 cù ngoéo
 cu ngói
-cũ người mới ta
 cụ nhà
 cù nhằng
 cù nhây
 cù nhầy
 củ niễng
-cú nói có, vọ nói không
 cụ non
 cụ nội
 củ nưa
 cụ ông
 cú pháp
-cú pháp học
 cú phôn
 củ quẳn
 củ ráy
@@ -18722,7 +18707,8 @@ cũ rích
 cù rù
 củ rủ
 cú rũ
-củ rủ cù rù
+củ rủ 
+cù rù
 củ sát
 cu sen
 củ soát
@@ -18745,88 +18731,52 @@ Cù Vân
 củ vấn
 cú vọ
 cu xanh
-cu-li
-cu-lit
-cu-lít
-cu-lông
-cu-pông
-cu-roa
-cu-ron
-cu-soong
+cu li
+cu lit
+cu lít
+cu lông
+cu pông
+cu roa
+cu ron
+cu soong
 cua
 Cùa
 của
 cúa
 của ai
-của ai phúc nấy
-của ai tai nấy
 của anh
-của anh anh mang, của nàng nàng gánh
-của anh như của chú
-của ăn của để
 của ấy
 của bà
 của báu
 cua bấy
 cua bể
-của bền tại người
 cua biển
-của Bụt trả Bụt
 của cải
-của cải quốc dân
 của cấm
 của chìm
-của chìm của nổi
-của chồng công vợ
-của chợ bỏ chợ
-của chua ai thấy chẳng thèm
 của chung
-của chung thiên hạ đồng lần
-cua có óc, cóc có gan
 của công
-của dâng tận miệng
 cua dẽ
 cua đá
-của đáng tội
-của đau con xót
-của đi rề rề, của về nghễu nghện
-của đi thay người
 cua đinh
 của độc
-của đội nón đi
+của đội
 cua đồng
-của đồng làm ra, của nhà làm nên
-của đời muôn sự của chung
-của đời người thế
 của đút
 của em
 cua ép
 cua gạch
-của gian của độc
-của giời ơi
-của giời ơi đất hỡi
 của hiếm
-của hồi môn
-của hương hoả
-của hương hỏa
-của ít lòng nhiều
-của kho không lo cũng hết
 của lạ
-của làm, ăn no; của cho, ăn thêm
 cua lột
 của mày
-cua máy cáy đào
 cúa mềm
 của mình
-của mình thì để, của rể thì bòn
-của mình thì giữ bo bo, của người thì thả cho bò nó ăn
-của mòn con lớn
-của một đồng công một nén
 của Mỹ
 của nả
 của nàng
 của này
-của ngon vật lạ
+của ngon
 của người bồ tát, của ta lạt buộc
 của người như của ta
 của người phúc ta
