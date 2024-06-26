@@ -1,3 +1,7 @@
+hộp màu
+hộp đựng
+hộp bánh
+hộp quà
 thức đêm
 cháy khét
 cháy rừng
@@ -89995,4 +89999,4 @@ quốc dân
 thu nhập
 nhập thuần
 thuần tuý
-thu nhiệt
+thu
