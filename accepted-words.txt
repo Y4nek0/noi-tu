@@ -3,9 +3,15 @@ hộp đựng
 hộp bánh
 hộp quà
 thức đêm
+Hộp xốp
+hộp đen
+gáy bẩn
+tạng tỳ
+tạng người
 cháy khét
 cháy rừng
 cháy nhà
+kèn đồng
 loa kéo
 loa đài
 loa phường
@@ -14,6 +20,7 @@ loa ngoài
 ác bá
 ác báo
 ác cảm
+thức khuya
 ác chiến
 ác độc
 ác đức
@@ -15438,6 +15445,7 @@ chẳng đâu
 đâu vào
 vào đâu
 chẳng đẻ
+buộc dây
 đẻ chẳng
 chẳng thương
 chẳng đội
@@ -44505,6 +44513,7 @@ hỏa lò
 hoa loa
 hoa loa
 loa kèn
+loa đài
 hoa loa
 loa kèn
 kèn trắng
@@ -47008,6 +47017,7 @@ hương phai
 phai phấn
 phấn nhạt
 hương phụ
+ảnh đế
 hương quan
 hương quản
 hướng quang
@@ -84732,6 +84742,7 @@ Tắc Vân
 tắc xi
 tắm biển
 tăm bông
+thư tình
 tằm bủng
 tăm cá
 cá bóng
