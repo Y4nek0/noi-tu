@@ -1,9 +1,12 @@
 hộp màu
 hộp đựng
 hộp bánh
+tỳ bà
+bà bà
 hộp quà
 thức đêm
 Hộp xốp
+tỳ hưu
 hộp đen
 gáy bẩn
 tạng tỳ
@@ -19982,6 +19985,7 @@ chủ nghĩa
 nghĩa tư
 tư bản
 chủ nghĩa
+thâu đêm
 nghĩa tư
 tư bản
 bản độc
