@@ -2984,7 +2984,7 @@ phục linh
 bạch quả
 bách quan
 bạch quỉ
-Bạch Sam
+Bạch Sâm
 bạch sản
 bách sinh
 bách tán
@@ -2996,6 +2996,7 @@ bách thần
 bách thế
 bách thế
 thế lưu
+sam biển
 lưu phương
 bách thiết
 bạch thỏ
@@ -9283,7 +9284,6 @@ bột nhồi
 bột nở
 bột phát
 Bột Phi
-bột sam
 bột sắn
 bột sắn
 sắn dây
@@ -33773,7 +33773,6 @@ thập thành
 tiểu tiện
 đi tìm
 đĩ tính
-đi tong
 đi tơ
 đi tới
 đĩ trai
@@ -59141,17 +59140,11 @@ cho thủng
 mất tiền
 tiền mua
 mua thúng
-thúng thì
-thì đựng
-đựng cho
-cho mòn
 mất tiếng
-mật tiếp
 mất tiêu
-mất tinh
 tinh thần
 mất toi
-mất tong
+đi tong
 Mật tông
 mất trắng
 mất trí
@@ -80362,15 +80355,12 @@ sai vặt
 sai vật
 sàm báng
 sám hối
-Sam Kha
 sạm mặt
-Sam Mứn
 sạm nắng
 sàm ngôn
 sàm nịnh
 sàm sạm
 sàm sỡ
-sam sưa
 sàm tấu
 san bằng
 sán bò
@@ -89982,15 +89972,12 @@ thu ngân
 ngân viên
 thù nghịch
 thụ nghiệp
-Thu Ngọc
 thu nhặt
 thu nhận
 thú nhận
 thu nhập
 thu nhập
-nhập quốc
 quốc dân
 thu nhập
-nhập thuần
 thuần tuý
-thu
+thu hồi
