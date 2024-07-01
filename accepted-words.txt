@@ -21461,7 +21461,7 @@ dứt tình
 đảm trách
 đảm tử
 đám xá
-đàn (đoàn)
+đàn (đoàn
 đàn ang
 đàn ảnh
 đàn ảnh,
@@ -23057,7 +23057,6 @@ dứt tình
 đầy ứ
 đầy vơi
 đẩy xe
-đè (nhè)
 đẻ bảy
 đè bẹp
 đè bụi
@@ -23442,10 +23441,6 @@ dứt tình
 đề xuất
 đề xướng
 để ý
-để yên
-đệ; khoa
-đếch cần
-đêm (lắm)
 đệm bóng
 đệm cát
 đếm chác
@@ -23589,7 +23584,7 @@ dứt tình
 đều tiêu
 đềukêu
 đềutiêu
-đi (ra)
+đi ra
 đi ăn
 đi bách
 đi bán
@@ -34795,15 +34790,9 @@ iu ỉu
 ỉu xịt
 ỉu xìu
 ỉu xịu
-kK
 Ka Beo
 ka ki
 ka li
-ka-li ni-tơ-rat
-Kađai (tiếng)
-kali nitrat
-kalium nitrat
-kalium nitrate
 kẻ ăn
 kẻ Bắc
 kè bớt
@@ -34818,7 +34807,6 @@ kẻ chợ
 kẻ có
 kẻ cướp
 kẻ dạ
-kẻ dò,
 kẻ dưới
 kẻ đấm
 ké đầu
@@ -35444,34 +35432,8 @@ khản đặc
 khán giả
 khan hiếm
 khán hộ
-khàn khàn
-khàn như
-khan nói
-khán pháp
-khán phòng
-khán quan
-khán thính
-khán thủ
-khản tiếng
-Kháng (dân
-Kháng (tiếng)
-Kháng Ái
-khang an
-kháng án
-kháng âm
-Kháng Bung
-kháng cáo
-khang cát
-khang chi
-kháng chiến
-kháng cự
-khang cường
-Kháng Dống
-Kháng Đón
-kháng độc
-Kháng Hốc
-kháng huyết
-khang khác
+
+
 khảng khái
 khang khảng
 khang kháng
@@ -35496,10 +35458,9 @@ kháng thư
 kháng tố
 khang trang
 kháng từ
-kháng vi-rút
+kháng virus
 kháng viêm
 Kháng Xúa
-khảng; khang
 khảnh ăn
 khánh chúc
 Khánh Đông
@@ -35616,7 +35577,6 @@ khăn lau
 khăn mặt
 khăn mỏ
 khăn mùi
-khăn mùi-soa
 khăn ngang
 khăn piêu
 khăn quàng
@@ -36489,10 +36449,6 @@ khòm khòm
 khòm khọm
 khom lưng
 khọm rọm
-khỏng khoẻo
-khòng khòng
-khọt khẹt
-khổ (một)
 khổ ải
 khố bao
 khố bện
@@ -36605,9 +36561,6 @@ khôi tinh
 khối tình
 Khối Trục
 khối u
-khôi vĩ
-khối xây
-khốn (một)
 khôn ăn
 khôn ba
 khôn cầm
@@ -36917,10 +36870,6 @@ khờ dại
 khờ khạo
 khờ khĩnh
 khơ khớ
-Khơ-me (dân
-Khơ-me Krôm
-Khơ-mú (dân
-Khơ-mú (tiếng)
 khơi bày
 khởi binh
 khởi chiến
@@ -36962,8 +36911,6 @@ khởi tranh
 khơi trong
 khởi tử
 khởi xướng
-KhởiChu
-Khơme (tiếng)
 khớp đồ
 khớp học
 khớp răng
@@ -37235,7 +37182,7 @@ khử nhiễm
 khư như
 khự nự
 khử nước
-khử o-xy
+khử oxy
 khự tố
 khử trùng
 khử từ
@@ -37520,15 +37467,6 @@ kiềm tỏa
 kiêm toàn
 kiểm toán
 kiểm tra
-kiểm tu
-kiêm từ
-kiệm ước
-kiệmnhượng
-kiến (bò)
-Kiến An
-kiến bò
-kiến bò;
-kiến càng
 kiến cánh
 kiện cáo
 kiến cắn
@@ -37814,9 +37752,6 @@ kín tiếng
 kín tranh
 kín trên
 kín tường
-kínchín
-Kinh (dân
-Kinh (tiếng)
 kính ái
 kính ảnh
 kinh bang
@@ -38326,8 +38261,6 @@ lã người
 là nhà
 lạ nhà
 lá nhãn
-La Ni
-La Ni-na
 là niêu
 la nina
 lá noãn
@@ -38391,12 +38324,6 @@ lạ việc
 Lã Vọng
 lá vườn
 la xóm
-la-mã hoá
-la-tê-rít hoá
-la-tinh hoá
-lácá
-lạhỏi
-lạmạ
 lạc bầy
 lạc bộ
 lạc bước
@@ -39666,7 +39593,6 @@ lật sật
 lật tẩy
 lật trang
 lật úp
-lâu (ngày)
 lầu bà
 lầu bậc
 lầu bầu
@@ -40345,7 +40271,6 @@ liêm sỉ
 liêm sĩ
 liềm vạt
 LiêmLạc
-liên (lân)
 liên á
 liên a-rập
 liên bang
@@ -44655,7 +44580,6 @@ mía thanh
 mía tơ
 Mịch La
 mích lòng
-miên (thuật)
 miền Bắc
 miễn chấp
 miễn chức
@@ -46767,7 +46691,6 @@ náu hình
 náu mặt
 náu mình
 náu tiếng
-này (thì)
 nay ăn
 nay bắc
 nảy cái
@@ -61680,7 +61603,6 @@ sót lại
 sót lọt
 sót nhau
 sọt rác
-số (toán)
 số A
 số ả
 số A-rập
@@ -65795,7 +65717,6 @@ Thành Yên
 Thạnh Yên
 ThànhHạ
 thànhvạn
-thảo (cây)
 thảo am
 thảo án
 thảo bà
@@ -67751,7 +67672,6 @@ Thọ Vinh
 Thọ Vực
 Thọ Xuân
 Thọ Xương
-thoa (lí)
 thoả chí
 thỏa chí
 thoả đáng
@@ -69337,8 +69257,6 @@ tới người
 tới tính
 tới tuần
 tới vợ
-tớithấp
-trả (giả)
 trả bồ
 trả bữa
 tra cơ
@@ -71400,10 +71318,7 @@ xuống nia
 xuống nước
 xuống ruộng
 xuống sông
-xuống trầm
-Xuyên (xã)
 xuyên dương
-xuyếnkim
 xuýt ra
 xử lí
 xử lý
