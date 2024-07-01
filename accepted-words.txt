@@ -1,6 +1,7 @@
 ai nấy
 ái ngại
 ái Nghĩa
+nước cống
 ai ngờ
 ai người
 ai nhà
@@ -192,8 +193,6 @@ ang áng
 ảo băng
 ảo bèo
 áo bìa
-áo blu-dông
-áo blu-dơ
 áo bò
 áo bó
 áo bông
@@ -237,8 +236,6 @@ ang áng
 áo gai
 áo gạo
 áo gấm
-áo gi-lê
-áo gia-két
 ảo giác
 áo giáp
 áo giấy
@@ -276,9 +273,7 @@ ang áng
 áo mảnh
 áo mão
 áo may
-áo may-ô
 áo mặc
-áo măng-tô
 áo mẹ
 áo mồi
 Áo Môn
@@ -317,7 +312,6 @@ ang áng
 áo sô
 áo sổ
 áo sơ
-áo sơ-mi
 áo tang
 áo tắm
 áo tế
@@ -334,7 +328,6 @@ ang áng
 áo thùng
 áo thụng
 áo thực
-áo ti-cô
 áo tơi
 áo trào
 áo trấn
@@ -352,20 +345,15 @@ ang áng
 áo vải
 áo vàng
 áo vest
-áo vét-tông
 áo vệ
 ảo vọng
 áo vợ
 ảo Vua
 áo xanh
 áo xiêm
-áo xmô-kinh
 áo xổ
 áo xống
 ảo xơ
-áo xpen-xe
-ảobèo
-áotrưa
 áp bách
 áp bức
 áp cao
@@ -406,23 +394,13 @@ ang áng
 át chủ
 át lát
 át phan
-át pi-rin
 át ức
-au au
-axit amin
-axit axetic
-axit cacbonic
-axit clohiđric
-axit nitric
-axit sunfuric
 ay áy
 áy náy
 Ayun Pa
 ặc ặc
 ắc ô
 ắc quy
-ắc ứ
-ắc-coóc đê-ông
 ăm ắp
 ẵm bế
 ẵm nách
@@ -1390,7 +1368,6 @@ ba la
 ba lá
 bà la
 bả lả
-bà la-sát
 bà lạch
 Ba Lai
 Ba Lan
@@ -1508,7 +1485,6 @@ ba rem
 ba ren
 ba ri
 Bà Rịa
-Bà Rịa-Vũng
 ba rọi
 bã rượu
 bà sãi
@@ -1605,8 +1581,6 @@ Bá Xuyên
 ba za
 ba zan
 ba zơ
-ba-truiba-tui
-ba-xí ba-tú
 bagà
 báhuỳnh
 bạc ác
@@ -2266,11 +2240,6 @@ ban mặt
 bản mặt
 bán mặt
 bản mẫu
-Bản mẫu:-vie-
-Bản mẫu:-vie-n-
-Bản mẫu:*đề
-Bản mẫu:new
-bán mẹt
 Bản Mế
 bản mệnh
 ban miêu
@@ -70377,7 +70346,6 @@ uyên ương
 ứng nhà
 ứng nhiệt
 ứng ôxi
-ứng Pha-ra-đây
 ứng phụ
 ứng quang
 ứng thể
@@ -70726,7 +70694,6 @@ về gió
 về hỏi
 về hôm
 về Hợp
-về Hợp-phố
 về không
 về khuya
 về lụa,
@@ -71147,7 +71114,7 @@ vực một
 vực sâu
 vững chí
 vững tay
-vượn bạc,
+vượn bạc
 vườn dâu
 vườn dưa
 vườn hoang
@@ -71162,7 +71129,6 @@ vương tinh
 vướng tóc
 vương tội
 vương tơ
-VươngNguyễn,
 vượt biển
 vượt đường
 vượt gió
@@ -71172,9 +71138,6 @@ vượt sóng
 vượt suối
 vượt thấm
 vượt Vũ
-vượt Vũ-môn
-Xá (xã)
-xa bay
 xà bì
 xạ cảm
 xa chạy
