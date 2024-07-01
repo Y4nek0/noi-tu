@@ -2534,7 +2534,6 @@ bánh bò
 bánh bỏng
 bánh bông
 bánh bột
-bánh ca-vát
 bánh canh
 bánh cáy
 bánh cắt
@@ -2564,7 +2563,7 @@ bánh đậu
 bánh đôi
 bánh đúc
 bánh ếch
-bánh ga-tô
+bánh gato
 bánh gai
 bánh giầy
 bánh gio
@@ -2696,7 +2695,6 @@ bão bùng
 bảo cái
 bao cao
 báo cáo
-bao cao-su
 bao cát
 bão cát
 bao cấp
@@ -3031,7 +3029,7 @@ bạt nhĩ
 bạt núi
 bát nước
 bát ô
-bát ô-tô
+bát tô
 bát phẩm
 bạt phong
 bát phố
@@ -3071,7 +3069,6 @@ bạt vía
 bát vực
 Bát Xát
 bát xôi
-Bát-tràngchết
 bátnhà
 bàu bạu
 bàu bĩnh
@@ -3505,7 +3502,6 @@ băng xích
 băng xiên
 bằng xương
 bằng yên
-băng-giô an-tô
 bắp cải
 bắp cày
 bắp chân
@@ -3845,8 +3841,6 @@ bất lão
 bật lên
 bất li
 bất lịch
-bật lò
-bật lò-xo
 bất lợi
 bất luận
 bật lửa
@@ -4204,7 +4198,6 @@ béo ngấy
 béo ngậy
 béo ngộn
 bèo nhật
-bèo Nhật-bản
 bèo nhèo
 béo như
 béo nịch
@@ -4368,8 +4361,6 @@ bể xả
 bể xăng
 bệ xí
 bế xốc
-bê-tông cốt
-bểkhôn
 bệch bạc
 bệch bạch
 bên A
@@ -4437,7 +4428,6 @@ bên nớ
 bên nợ
 bên nửa
 bến nước
-bến ô-tô
 bến phà
 bên phải
 bên Pháp
@@ -4532,7 +4522,6 @@ bếp nhà
 bếp núc
 bếp nước
 bết bệt
-bệt xà-lù
 bêtông cốt
 bệu bạo
 bêu bêu
@@ -4775,7 +4764,6 @@ bích thuỷ
 bích thủy
 bích toong
 bích vân
-Bích-câu kì
 biể xích
 biếc non
 biếm hoạ
@@ -5757,9 +5745,6 @@ bom lân
 bom lửa
 bom mảnh
 bom na
-bom na-pan
-bom napalm
-bom nguyên
 bom nổ
 bom phóng
 bom rải
@@ -5937,7 +5922,6 @@ bóng với
 bong vụ
 Bóng xé
 bóng xế
-boóc ba-ga
 boong boong
 boong ke
 boong tàu
@@ -56113,7 +56097,6 @@ phỏng tính
 phóng tinh
 phong toả
 phong tỏa
-phòng toa-lét
 phòng tôi
 phòng tối
 phòng trà
@@ -56275,7 +56258,6 @@ phởn chí
 phởn phơ
 phớn phở
 phơn phớt
-phớt ăng-lê
 phớt đều
 phớt đời
 phớt lạnh
@@ -56799,41 +56781,6 @@ phường vải
 phương vị
 phượng vĩ
 phương viên
-phương xú
-phượngcưỡi
-phượnguyên
-pi a
-pi gia
-pi lốt
-pi pét
-pi rít
-pích ních
-pin khô
-pín lù
-pin nhiệt
-pin quang
-pin sạc
-pít tông
-pla tin
-pó tay
-pom mát
-pon cho
-pô pơ
-pô tát
-pô-li-me thiên
-pô-li-me tổng
-pơ lin
-pơ luya
-pơ mu
-prô tít
-prô ton
-pu li
-Pu Nà
-Pu Péo
-Pu Thay
-Pu Thênh
-puốc boa
-quạ ăn
 quả ấy
 qua bà
 quá bán
@@ -57370,7 +57317,6 @@ quang mây
 quang minh
 Quảng Minh
 Quảng Nam
-Quảng Nam-Đà
 Quảng Nạp
 quang năng
 Quảng Ngãi
@@ -58671,7 +58617,6 @@ ra vẻ
 ra về
 ra viện
 ra ý
-ra-đi-ô cát-xét
 rada
 rama
 rarờ
@@ -58921,8 +58866,6 @@ rau thơm
 rau thuần
 rau tinh
 rau trai
-rau xà-lách
-rau xanh
 rau xương
 rauăn
 rày gió
@@ -59323,7 +59266,6 @@ rỉa lông
 rỉa ráy
 rỉa rói
 rìa xờm
-Rịa-Vũng Tàu
 rịch cà
 rích quê
 rích rích
@@ -59516,7 +59458,6 @@ rộn rực
 rộng áo
 rộng ẩm
 rống Bái
-rống Bái-công
 rồng bay
 rộng bằng
 rộng bụng
@@ -60117,9 +60058,6 @@ sả thịt
 sa trùng
 sa trước
 sa trường
-sa vắn
-sà- lúp
-saxà
 sác học
 sạch bách
 sách báo
@@ -60200,8 +60138,6 @@ sài đường
 sài ghẻ
 sài giật
 Sài Gòn
-Sài Gòn-Gia
-Sài Gòn–Gia
 sai hẹn
 sài hồ
 sai khiến
@@ -60485,7 +60421,6 @@ sao cờ
 sáo cũ
 sao của
 sao Diêm
-sao diêm-vương
 sáo diều
 Sào Do
 sao dời
@@ -60502,7 +60437,6 @@ sao được
 sào gậy
 sao gột
 sao Hải
-sao hải-vương
 sao hay
 sao hoả
 sao hỏa
@@ -61112,7 +61046,6 @@ sếp tanh
 sếu đầu
 sêu tết
 sếu vườn
-si -
 sì ẩm
 sỉ âm
 sĩ công
@@ -61604,7 +61537,6 @@ sót nhau
 sọt rác
 số A
 số ả
-số A-rập
 số ảo
 số áp
 số âm
@@ -61666,7 +61598,6 @@ số không
 số kiếp
 số La
 số là
-số La-mã
 số lẻ
 số liệt
 số liệu
@@ -61742,9 +61673,6 @@ sổ vàng
 sô vanh
 Sô Viết
 số vô
-số vốn
-sô- cô-
-sô-vanh nước
 sộc nó
 sôi ba
 sôi bỏng
@@ -61769,7 +61697,6 @@ sôi sục
 sôi sùng
 sôi tiết
 sồi xe
-sôinồi
 sồn sồn
 sôn sốt
 sồn sột
@@ -61944,9 +61871,6 @@ sốt tiết
 sốt vàng
 sốt vó
 sốt vỡ
-sốt xuất
-sôvanh nước
-sơ -
 sợ áo
 sợ bóng
 sơ bộ
@@ -62360,13 +62284,11 @@ sún răng
 sun vai
 sun vòi
 sụn xơ
-sun-phát đạm
 sùng ái
 sủng ái
 súng ăn
 sùng bái
 súng cao
-súng cao-su
 sung cháo
 súng chẳng
 sung chức
@@ -62395,7 +62317,6 @@ súng máy
 sung mặc
 sùng mộ
 súng mút
-súng mút-cơ-tông
 súng ngắn
 sùng ngoại
 sung ngồi
@@ -64455,7 +64376,6 @@ tầng hầm
 tâng hẩng
 tâng hẫng
 tầng học
-tầng i-ôn
 tầng lớp
 tầng lửng
 tầng mây
@@ -64553,8 +64473,6 @@ tất trong
 tất tưởi
 tật xấu
 tất yếu
-Tất-đạt-đa Cồ-đàm
-tậtđất
 tâu bày
 tầu bay
 tầu bè
