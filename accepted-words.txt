@@ -5094,8 +5094,6 @@ biết việc
 biệt vô
 biệt xứ
 biết ý
-biếtdạ;
-biểu (
 biểu bì
 biểu cảm
 biểu chương
@@ -7946,9 +7944,6 @@ các thánh
 các tông
 các vàng
 các vị
-các-bua hi-đrô
-các-tông chun
-cách (
 cách âm
 cách bay
 Cách Bi
@@ -8009,9 +8004,6 @@ cách trùng
 cách vật
 cách vời
 cách xa
-cáchtuyết
-cactông chun
-cái (là)
 cải ác
 cái ách
 cái áo
@@ -12123,10 +12115,6 @@ chết vũng
 chết xác
 chết xuống
 chết yểu
-chếtchết
-chêu nghêu
-chị (ảnh)
-chị ả
 chí ác
 chị ấy
 chỉ bảo
@@ -14814,7 +14802,6 @@ chửi tưới
 chửi xéo
 chửi xiên
 chửi xỏ
-chứng (
 chừng ấy
 chưng bày
 chừng bắt
@@ -18552,10 +18539,6 @@ dại trai
 dài vai
 dại văn
 dải yếm
-dạilái
-dạirái
-dàitrai
-dại3 (bệnh)
 dạm bán
 dám đâu
 dám để
