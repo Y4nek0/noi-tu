@@ -2530,7 +2530,6 @@ bánh bẻ
 bánh bèo
 bánh bìa
 bánh bích
-bánh bích-qui
 bánh bò
 bánh bỏng
 bánh bông
@@ -64712,8 +64711,6 @@ tép riu
 tép rong
 tép ve
 tẹt mũi
-tét rún
-tế -
 tệ bạc
 tê bại
 tế bào
@@ -67166,7 +67163,6 @@ thích thuộc
 thích tố
 thích ứng
 thích ý
-Thích-ca Mâu-ni
 thiếc hàn
 thiểm âm
 thiểm chức
@@ -69141,9 +69137,6 @@ tốc kí
 tộc người
 tộc thiểu
 tộc tính
-tộc tự
-tộc-ngôn ngữ
-tộc; đồng
 tội bắt
 tội danh
 tối đã
@@ -69280,7 +69273,6 @@ trác như
 trách bị
 trách nhiệm
 trách phận
-trai Bát-tràng,
 trai con
 trái cửa
 trại giam
@@ -70044,7 +70036,6 @@ tứ giống
 từ giữ
 tử gram
 tử Hà
-tử Hà-đông
 Từ Hải
 tử hán
 tự hành
