@@ -70586,12 +70586,11 @@ vi sai
 vi sinh
 vi sóng
 vi sư
-vi sư,
 vĩ tam
 vị tha
 vị thân
 vi thiên
-vi thủ,
+vi thủ
 vi thượng
 vi tiên
 vì tiền
@@ -70609,12 +70608,6 @@ vi xử
 vịthần
 vía ba
 vía kinh
-vía lên
-vie adj
-vie adv
-vie idiom
-vie interj
-vie noun
 vie prep
 vie pronoun
 vie proverb
@@ -70636,16 +70629,11 @@ viên thường
 viện trưởng
 viễn tưởng
 viễn vọng
-viên; công
-viên:NHHP/tháng Ba
-viên:NHHP/tháng Hai
-viên:NHHP/tháng một
 Việt Cách
 việt dã
 việt dư
 Việt đậu
 viết ghi
-viết hữu,
 việt luật
 viết mướn
 Việt Nam
@@ -70654,8 +70642,6 @@ Việt nhứt
 Việt sử
 viết thư
 viết vô
-Việtcờ
-vincả
 vinh còn
 vĩnh cửu
 Vĩnh Đông
@@ -70686,7 +70672,7 @@ võ trang
 vo tròn
 vỏ trứng
 vò vẽ
-vóbừa
+vó bừa
 vóc dạc
 vóc học
 voi ăn
@@ -70710,13 +70696,12 @@ vòng cương
 vòng đã
 võng đào
 vòng kiềng
-vòng loại;
+vòng loại
 vong lục
 vong niên
 vọng tộc
 vòng tròn
 vọng trọng
-vọngcàng
 vót nhọn
 vô áy
 vô âm
@@ -70767,13 +70752,11 @@ vô tỷ
 vô ưu
 vỗ vế
 vội đi
-vôicay
 vốn bốn
 vốn lẫn
 vốn lớn
 vốn mất
 vông phá
-vôngđông
 vợ ăn
 vơ bá
 vợ ba
@@ -70784,6 +70767,7 @@ vớ cá
 vợ chạ
 vợ cheo
 vợ chồng
+hóa hình
 vơ chú
 vợ cưới
 vỡ da
@@ -70848,7 +70832,6 @@ với thịt
 với tiên
 vời tiếng
 với tinh
-với tới,
 với vôi
 vời vợi
 vũ bão
@@ -71001,9 +70984,7 @@ xạ tự
 xạ tước
 xa va
 xa về
-xabản
-xadữ
-xanha
+xa dữ
 xác bác
 xác nghèo
 xác pháo
@@ -71014,7 +70995,6 @@ xách nách
 xách tay
 xám mày
 xám như
-xanh ***
 xanh cây
 xanh đỏ
 xanh mày
@@ -71090,11 +71070,8 @@ xếp đống
 xếp không
 xì dầu
 xị đế
-xì gi
 xi hoá
 xì hơi
-xì ỉu
-xi lin
 xi măng
 xí ngầu
 xí nghiệp
@@ -71175,12 +71152,7 @@ Xuân Bắc
 xuân đi
 xuân già
 xuân hơi
-Xuân I
-Xuân II
-Xuân Nam
-xuân phân
 Xuân thu
-Xuân Trung
 xuân xanh
 xuất bản
 xuất công
@@ -71210,9 +71182,7 @@ xuôi dăm
 xuôi đóm
 xuôi đuôi
 xuôi ngược
-xuôi nỗi
 xuôi tay
-xuôimột
 xuống biển
 xuống chân
 xuống chó
@@ -71252,15 +71222,12 @@ xương nát
 xướng người
 xương nhiều
 xướng phụ
-xương sông
 xương sống
 xương sườn
 xường sườn
 xương tan
 xương tận
 Xương Trạch
-xương vô
-xướng vợ
 y bản
 y Bảo
 ý chí
@@ -71273,7 +71240,6 @@ y kiêm
 ý kiến
 ý một
 y nhi
-y như
 ý nói
 y sĩ
 ý sở
@@ -71285,21 +71251,7 @@ y vân
 y vệ
 y viện
 y vũ
-ýcòn
-ýVăn
-Yang Sin
-yếm thắm,
-Yên A
-yên chẳng
-yên chi
-yên mả
-Yên Nhân
-yên vô
-yến xôn
-yết hậu
-yêu ảnh
 yêu cầu
-yêu của
 yếu đào
 yếu lược
 yêu minh
@@ -71308,6 +71260,3 @@ yêu nước
 yếu phẩm
 yêu tác
 yếu tay
-yếu thua
-yêu trộm
-yêu xỏ
