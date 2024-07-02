@@ -1,6 +1,7 @@
 giáo sứ
 ai nấy
 đạo trưởng
+vẹt kiểng
 đạo quán
 cung đấu
 Muống xào
@@ -59847,9 +59848,7 @@ rút xương
 ruy băng
 rửa ảnh
 rửa bát
-rựa chém
 rửa chén
-rựa cụt
 rửa cưa
 rửa cưa,
 rữa hoa
@@ -59858,7 +59857,6 @@ rửa mặn
 rửa mặt
 rữa nát
 rửa nhục
-rựa quéo
 rửa ráy
 rửa ruột
 rưa rứa
